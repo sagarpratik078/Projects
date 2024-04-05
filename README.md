@@ -38,12 +38,6 @@ This project consists of Python scripts designed to perform sentiment analysis o
 
 4. Modify the file paths in the code to align with the locations of your input data files.
 
-5. Execute the program:
-
-    ```bash
-    python Procurement_Strategy_Optimization.py
-    ```
-
 ## Expected Results
 
 - **Sentiment Analysis**: Thorough analysis of sentiment from customer reviews using the VADER lexicon.
